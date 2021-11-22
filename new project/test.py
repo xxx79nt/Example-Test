@@ -7,3 +7,6 @@ c = a + b
 d = "comment"
 for i in d:
     print(i)
+
+# add a new line
+dic = [1, 3, 5, 7]
