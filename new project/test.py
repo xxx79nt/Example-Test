@@ -4,4 +4,8 @@ b = 3
 c = a + b
 print(c)
 
-print("hahaha")
+# this is just a comment
+
+d = "comment"
+for i in d:
+    print(i)
