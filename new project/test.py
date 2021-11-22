@@ -7,5 +7,3 @@ c = a + b
 d = "comment"
 for i in d:
     print(i)
-
-print("hello world!")
